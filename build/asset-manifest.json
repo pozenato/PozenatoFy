@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/PozenatoFy/static/js/main.496ed360.chunk.js",
+    "main.js.map": "/PozenatoFy/static/js/main.496ed360.chunk.js.map",
+    "runtime~main.js": "/PozenatoFy/static/js/runtime~main.cf462775.js",
+    "runtime~main.js.map": "/PozenatoFy/static/js/runtime~main.cf462775.js.map",
+    "static/js/2.be8fe22d.chunk.js": "/PozenatoFy/static/js/2.be8fe22d.chunk.js",
+    "static/js/2.be8fe22d.chunk.js.map": "/PozenatoFy/static/js/2.be8fe22d.chunk.js.map",
+    "index.html": "/PozenatoFy/index.html",
+    "precache-manifest.930c8d28006750e8e1fc3fc737ef001e.js": "/PozenatoFy/precache-manifest.930c8d28006750e8e1fc3fc737ef001e.js",
+    "service-worker.js": "/PozenatoFy/service-worker.js"
+  }
+}
