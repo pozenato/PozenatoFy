@@ -1,7 +1,8 @@
 {
-  "name": "rocketfy",
+  "name": "pozenatofy",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://pozenato.github.io/PozenatoFy",
   "dependencies": {
     "components": "^0.1.0",
     "immer": "^3.2.0",
@@ -16,6 +17,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -36,6 +39,7 @@
     ]
   },
   "devDependencies": {
-    "babel-plugin-styled-components": "^1.10.6"
+    "babel-plugin-styled-components": "^1.10.6",
+    "gh-pages": "^6.3.0"
   }
 }
